@@ -1,0 +1,26 @@
+TransactionID,Date,Customer,TransactionType,Category,Channel,Amount,Status
+TXN001,2026-01-03,Aarav Sharma,Credit,Salary,Mobile,85000,Completed
+TXN002,2026-01-04,Meera Iyer,Debit,Groceries,Card,2450,Completed 
+TXN003,2026-01-05,Rohan Patel,Debit,Utilities,Online,1800,Completed
+TXN004,2026-01-06,Ananya Rao,Credit,Refund,Online,1250,Completed
+TXN005,2026-01-08,Aarav Sharma,Debit,Dining,Card,950,Completed
+TXN006,2026-01-10,Meera Iyer,Debit,Shopping,Mobile,4200,Completed
+TXN007,2026-01-12,Rohan Patel,Credit,Transfer,Branch,12000,Completed
+TXN008,2026-01-14,Ananya Rao,Debit,Groceries,Card,3150,Completed
+TXN009,2026-01-17,Aarav Sharma,Debit,Utilities,Online,2200,Completed
+TXN010,2026-01-19,Meera Iyer,Credit,Salary, Mobile,72000,Completed
+TXN011,2026-01-22,Rohan Patel,Debit,Dining,Card,1650,Completed
+TXN012,2026-01-25,Ananya Rao,Debit,Travel,Mobile,5600,Completed
+TXN013,2026-02-02,Aarav Sharma,Credit,Transfer,Online,8000,Completed
+TXN014,2026-02-04,Meera Iyer,Debit,Groceries,Card,2780,Completed
+TXN015,2026-02-06,Rohan Patel,Debit,Shopping,Mobile,3500,Completed
+TXN016,2026-02-09,Ananya Rao,Credit,Salary,Branch,68000,Completed
+TXN017,2026-02-11,Aarav Sharma,Debit,Dining,Card,1100,Completed
+TXN018,2026-02-14,Meera Iyer,Debit,Utilities,Online,1950,Completed
+TXN019,2026-02-18,Rohan Patel,Credit,Refund,Online,900,Completed
+TXN020,2026-02-21,Ananya Rao,Debit,Groceries,Card,2890,Completed
+TXN021,2026-03-03,Aarav Sharma,Debit,Travel,Mobile,7400,Completed
+TXN022,2026-03-06,Meera Iyer,Credit,Transfer,Branch,15000,Completed
+TXN023,2026-03-10,Rohan Patel,Debit,Shopping,Card,2600,Completed
+TXN024,2026-03-14,Ananya Rao,Debit,Dining,Mobile,1350,Completed
+TXN025,2026-03-20,Aarav Sharma,Credit,Salary,Online,85000,Completed
